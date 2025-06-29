@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://husnulhamidiah.github.io/nana/'
 languageCode = 'en-us'
 title = 'Nana.'
 theme = 'typo'
@@ -63,11 +63,11 @@ url = "/"
 
 [[params.menu]]
 name = "posts"
-url = "/posts"
+url = "/nana/posts"
 
 [[params.menu]]
 name = "about"
-url = "/about"
+url = "/nana/about"
 
 # Syntax highlight on code blocks
 [markup]
