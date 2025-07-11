@@ -51,7 +51,6 @@ jobs:
         with:
           submodules: true
           fetch-depth: 0
-      - run: git checkout HEAD
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
