@@ -15,7 +15,7 @@ jobs:
         with:
           ref: 'main'
           submodules: true 
-          fetch-depth: 1
+          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
